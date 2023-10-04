@@ -1,0 +1,10 @@
+td, th {
+    border: 2px solid;
+    padding: 5px;
+}
+table {
+    border-collapse: separate;
+}
+body {
+    background-color: rgb(48, 34, 70)
+}
